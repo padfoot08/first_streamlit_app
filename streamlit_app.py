@@ -1,8 +1,8 @@
 import streamlit
 
-streamlit.title('To Every You I have loved before')
-streamlit.header('Boku ga Aishita Subete no Kimi e')
-streamlit.text('Hio Miyazawa')
-streamlit.text('Ai Hashimoto')
-streamlit.text('Miki Mizuno')
-streamlit.text('Mutsumi Tamura')
+streamlit.title('My Mom\'s New Healthy Diner')
+streamlit.header('Breakfast Favorite')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
